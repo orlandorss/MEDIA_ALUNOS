@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MEDIAS_FALTAS</string>
     <string name="Verificar">VERIFICAR</string>
+    <string name="faltas">FALTAS</string>
+    <string name="nota_av1">NOTA AV1</string>
+    <string name="nota_av2">NOTA AV2</string>
 </resources>
